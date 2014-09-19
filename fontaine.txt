@@ -1,0 +1,64 @@
+Fonts
+  All fonts have the same character sets.
+  Font:
+    Common name: Happy Monkey
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2011 by Brenda Gallo (gbrenda1987@gmail.com). All rights reserved.
+    License: Copyright (c) 2011, Brenda Gallo (gbrenda1987@gmail.com),
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000
+    Vendor: Brenda Gallo (gbrenda1987@gmail.com)
+    Designer: Brenda Gallo (gbrenda1987@gmail.com)
+    Glyph count: 217
+    Character count: 216
+    Orthographies:
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 95
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+  Font:
+    Common name: Happy Monkey
+    Sub family: Regular
+    Weight: normal
+    Fixed width: yes
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2011 by Brenda Gallo (gbrenda1987@gmail.com), with Reserved Font Name "Happy Monkey".
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.001
+    Vendor: Brenda Gallo (gbrenda1987@gmail.com)
+    Designer: Brenda Gallo (gbrenda1987@gmail.com)
+    Glyph count: 220
+    Character count: 219
+    Orthographies:
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 95
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
